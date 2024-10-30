@@ -36,9 +36,3 @@ I'm a full-stack engineer with a passion for building innovative solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
-
-### 🔥 My Stats:
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeffrey-Pai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
